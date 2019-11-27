@@ -50,9 +50,9 @@ def scrape():
     ]
 
     mars_dict = {
-        'featured image': featured_image_url,
-        'latest tweet': results,
-        'facts table': facts_table,
+        'featured_image': featured_image_url,
+        'latest_tweet': results,
+        'facts_table': facts_table,
         'hemi_dict': hemi_dict
     }
 

@@ -1,3 +1,2 @@
-# Web Scraping Challenge
-
-###   Authored by _Zachary J. McCann_
+#### Web Scraping program developed to compolie information on Mars from various sources
+##### Developed using python, SQL-Alchemy, and various other python libraries
